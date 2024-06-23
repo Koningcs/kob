@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### 带数据库配置 ###
+src/main/resources/application.properties
